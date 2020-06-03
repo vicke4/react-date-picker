@@ -1221,6 +1221,11 @@
   resolved "https://registry.yarnpkg.com/@wojtekmaj/date-utils/-/date-utils-1.0.2.tgz#31348c572606ac42aaf9b7bb22074fc0b163cc2b"
   integrity sha512-sOu+uH3jzsECLg3YGH++/pLWs8S4eKiXMwMIcotE62CO9AB/HRyhZ0ISwann/30DLnfCw4skvr8h9gF3aafhPA==
 
+"@wojtekmaj/predict-input-value@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@wojtekmaj/predict-input-value/-/predict-input-value-1.0.0.tgz#dab4b6fa18f7247843f2f1d7065e182efd715f6c"
+  integrity sha512-cAMCkp0Qv0BZdnSeTER66xW2LeCkf1H2NgVYoblb/F/TzewqbugTc/GeXsUQK79875GXIPSaAypo0sbKX0jwVQ==
+
 abab@^2.0.3:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.3.tgz#623e2075e02eb2d3f2475e49f99c91846467907a"
